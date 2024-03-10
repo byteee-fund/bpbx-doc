@@ -1,11 +1,11 @@
-# BPBX介绍
+# 简介
 
 BPBX是一款基于Asterisk+JAVA设计的PBX系统。旨在为企业提供高效、稳定、灵活的通信解决方案，满足企业日常通信需求，提升工作效率。BPBX支持多种通信协议，具备丰富的功能特性，可轻松实现语音通话、传真、会议、呼叫转移等多种通信服务。
 
 
 
 
-![截图](./images/screenshot-home.png)
+![截图](/images/screenshot-home.png)
 
 
 

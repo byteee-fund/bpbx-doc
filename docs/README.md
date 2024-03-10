@@ -1,7 +1,7 @@
 ---
 home: true
 title: BPBX
-heroImage: ./images/screenshot-home.png
+heroImage: /images/screenshot-home.png
 actions:
   - text: 产品介绍
     link: /get-started

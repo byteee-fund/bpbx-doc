@@ -9,9 +9,12 @@ export default defineUserConfig({
   description: '轻量级的PBX解决方案',
 
   theme: defaultTheme({
-    logo: './images/logo.svg',
+    logo: '/images/logo.svg',
 
-    navbar: ['/', '/get-started'],
+    navbar: ['/', '/get-started', '/install', {
+      text: '赞助',
+      link: 'https://byteee.fund/project/bpbx',
+    },],
   }),
 
   bundler: viteBundler(),
