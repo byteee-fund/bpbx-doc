@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
-
+  base: "/doc/bpbx",
   title: 'BPBX',
   description: '轻量级的PBX解决方案',
 
