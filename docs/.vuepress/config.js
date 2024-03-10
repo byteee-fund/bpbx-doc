@@ -9,7 +9,7 @@ export default defineUserConfig({
   description: '轻量级的PBX解决方案',
 
   theme: defaultTheme({
-    logo: '/images/logo.svg',
+    logo: './images/logo.svg',
 
     navbar: ['/', '/get-started'],
   }),

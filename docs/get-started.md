@@ -1,4 +1,4 @@
-# 关于BPBX
+# BPBX介绍
 
 BPBX是一款基于Asterisk+JAVA设计的PBX系统。旨在为企业提供高效、稳定、灵活的通信解决方案，满足企业日常通信需求，提升工作效率。BPBX支持多种通信协议，具备丰富的功能特性，可轻松实现语音通话、传真、会议、呼叫转移等多种通信服务。
 
@@ -78,17 +78,17 @@ BPBX系统非常适合作为会议系统的通信解决方案。它支持多方�
 
 **PBX**
 
-基于Arsterisk 16.x内核驱动，采用ARA（Arsterisk RealTime）架构设计，内置开启AMI，ARI ，FASTAGI等接口
+基于`Arsterisk` 16.x内核驱动，采用`ARA`（Arsterisk RealTime）架构设计，内置开启`AMI`，`ARI `，`FASTAGI`等接口
 
 **后台**
 
-基于SpringBoot Security + JPA+RESETful的接口设计
+基于SpringBoot3.x框架， `Spring boot Security` + `JPA` + `RESETful` 的接口设计
 
 **数据库**
 
-Mariadb + Redis 
+关系数据库`Mariadb`， 缓存数据库  `Redis`
 
 **前端**
 
-ReactJS + ANTD PRO
+基于`ReactJS` ， `Antd Pro v5`框架
 

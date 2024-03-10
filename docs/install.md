@@ -8,15 +8,15 @@
 
 ## 安装步骤
 
-下载安装包
+点击购买，获取安装包，下载安装包到服务器
 
 ```shell
-wget https://xxxxx.com/bpbx.tar.gz
+wget https://xxxxx/bpbx.tar.gz
 ```
 
 
 
-解压安装
+解压安装包
 
 ```shell
 tar -zxvf bpbx.tar.gz
