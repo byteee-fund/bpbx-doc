@@ -11,10 +11,10 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: '/images/logo.svg',
 
-    navbar: ['/', '/get-started', '/install', {
-      text: '赞助',
+    navbar: ['/', '/get-started', '/install','/use-guide', {
+      text: '购买源码',
       link: 'https://byteee.fund/project/bpbx',
-    },'/use-guide',],
+    },],
   }),
 
   bundler: viteBundler(),
