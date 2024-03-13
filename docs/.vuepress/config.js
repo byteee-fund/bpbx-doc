@@ -14,7 +14,7 @@ export default defineUserConfig({
     navbar: ['/', '/get-started', '/install', {
       text: '赞助',
       link: 'https://byteee.fund/project/bpbx',
-    },],
+    },'/use-guide',],
   }),
 
   bundler: viteBundler(),
